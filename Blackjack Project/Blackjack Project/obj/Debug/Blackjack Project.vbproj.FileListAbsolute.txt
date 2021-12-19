@@ -1,0 +1,14 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Blackjack Project\bin\Debug\Blackjack Project.exe.config
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\BlackJack\Blackjack Project\Blackjack Project\bin\Debug\Blackjack Project.exe.config
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\BlackJack\Blackjack Project\Blackjack Project\bin\Debug\Blackjack Project.exe
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\BlackJack\Blackjack Project\Blackjack Project\bin\Debug\Blackjack Project.pdb
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\BlackJack\Blackjack Project\Blackjack Project\bin\Debug\Blackjack Project.xml
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\BlackJack\Blackjack Project\Blackjack Project\bin\Debug\Guna.UI.dll
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\BlackJack\Blackjack Project\Blackjack Project\obj\Debug\Blackjack_Project.Home.resources
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\BlackJack\Blackjack Project\Blackjack Project\obj\Debug\Blackjack_Project.Resources.resources
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\BlackJack\Blackjack Project\Blackjack Project\obj\Debug\Blackjack Project.vbproj.GenerateResource.Cache
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\BlackJack\Blackjack Project\Blackjack Project\obj\Debug\Blackjack Project.exe
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\BlackJack\Blackjack Project\Blackjack Project\obj\Debug\Blackjack Project.xml
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\BlackJack\Blackjack Project\Blackjack Project\obj\Debug\Blackjack Project.pdb
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\BlackJack\Blackjack Project\Blackjack Project\obj\Debug\Blackjack_Project.Gameplay.resources
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\BlackJack\Blackjack Project\Blackjack Project\obj\Debug\Blackjack_Project.Sign_In.resources
