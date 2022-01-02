@@ -4,6 +4,14 @@ Hi, this is the most interesting and fun blackjack project I've ever made. I mad
 
 I am very proud of my blackjack game project, I made it with a very modern and attractive design in accordance with today's developments. This project is open to anyone who wants to develop and improve it for the better.
 
+<h2>What I Used</h2>
+<ol>
+  <li><b>Programing Language:</b> Visual Basic</li>
+  <li><b>Framework:</b> GUNA UI</li>
+  <li><b>IDE:</b> Microsof Visual Studio 2012</li>
+  <li><b>CI/CD:</b> Github</li>
+</ol>
+
 # Menu
 In this blackjack game project I made several menus into it, namely the sign-in, home, and game menus.Here's a view of the project I made:
 <h2>1. Sign in</h2> 
