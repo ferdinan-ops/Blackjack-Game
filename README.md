@@ -5,7 +5,7 @@ Hi, this is the most interesting and fun blackjack project I've ever made. I mad
 I am very proud of my blackjack game project, I made it with a very modern and attractive design in accordance with today's developments. This project is open to anyone who wants to develop and improve it for the better.
 
 <h2>Blackjack</h2>
-In Blackjack, each card has its own value. The object of the game is to beat the dealer and also prevent your card from burning where it has a total of 22 or more. If you want to win in the Blackjack game, then you must have a total of 21 (Blackjack) or your card is of higher value than the Dealer but not more than 21.
+Blackjack is one of the many card games that are usually played in Casinos. In Blackjack, each card has its own value. The object of the game is to beat the dealer and also prevent your card from burning where it has a total of 22 or more. If you want to win in the Blackjack game, then you must have a total of 21 (Blackjack) or your card is of higher value than the Dealer but not more than 21.
 
 <h2>What I Used</h2>
 <ol>
