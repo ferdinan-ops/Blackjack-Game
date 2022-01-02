@@ -15,7 +15,7 @@ Blackjack is one of the many card games that are usually played in Casinos. In B
   <li><b>CI/CD:</b> Github</li>
 </ol>
 
-# ScreenShoots
+<h1>ScreenShoots</h1>
 In this blackjack game project I made several menus into it, namely the sign-in, home, and game menus.Here's a view of the project I made:
 <h2>1. Sign in</h2> 
 
