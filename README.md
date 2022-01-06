@@ -16,7 +16,7 @@ Blackjack is one of the many card games that are usually played in Casinos. In B
 </ol>
 
 <h2>Project Goals</h2>
-<p></p>
+<p>This blackjack game project aims to make blackjack games more modern or interactive for players, not only with green and dark table themes but can have other styles such as light and dark.</p>
 
 <h1>ScreenShoots</h1>
 In this blackjack game project I made several menus into it, namely the sign-in, home, and game menus.Here's a view of the project I made:
